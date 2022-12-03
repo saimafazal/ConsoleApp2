@@ -8,8 +8,24 @@ namespace ConsoleApp2
 {
     class Program
     {
+        public class person
+        {
+
+        }
+
+        public class employee
+        {
+
+        }
+
+        public class teacher
+        {
+
+        }
         static void Main(string[] args)
         {
+
+
         }
     }
 }
